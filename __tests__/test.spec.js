@@ -16,9 +16,7 @@ describe('botones', function () {
     });
 
     it('botones presentes', function () {
-        expect(document.getElementById('voluntario')).toBeTruthy();
-        expect(document.getElementById('dona')).toBeTruthy();
-        expect(document.getElementById('afiliate')).toBeTruthy();
+        expect(document.getElementById('conocermas')).toBeTruthy();
     });
 });
 
