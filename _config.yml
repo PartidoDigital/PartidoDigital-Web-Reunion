@@ -21,7 +21,7 @@ habilitado: fecha
 
 # URL de la reunión a la que redirigir luego de que se llene el formulario
 # Si la reunión es con Jitsi (usando un link con jit.si en la dirección) se habilitan las instrucciones
-link: https://zoom.us/j/98705360611?pwd=ZHBMYTdJNkxlNEVQa0xIUkRQaUYvdz09
+link: https://us02web.zoom.us/j/89029463345
 
 # NO TOCAR - Exclusión de archivos de la generación de la web estática por Jekyll
 exclude: ["CNAME", "package.json", "package-lock.json", "README.md"]
