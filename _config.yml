@@ -1,6 +1,6 @@
 # Fecha específica para la reunión. 
 # Tiene que seguir este mismo formato
-fecha: May 23 2022 19:00:00 GMT-0300
+fecha: Aug 01 2022 19:00:00 GMT-0300
 
 # Próximo día de la reunión (ojo, agregar los acentos de Miércoles o Sábado)
 # Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
@@ -21,7 +21,7 @@ habilitado: fecha
 
 # URL de la reunión a la que redirigir luego de que se llene el formulario
 # Si la reunión es con Jitsi (usando un link con jit.si en la dirección) se habilitan las instrucciones
-link: https://us02web.zoom.us/j/85255947054
+link: https://us02web.zoom.us/j/86704397384
 
 # NO TOCAR - Exclusión de archivos de la generación de la web estática por Jekyll
 exclude: ["CNAME", "package.json", "package-lock.json", "README.md"]
