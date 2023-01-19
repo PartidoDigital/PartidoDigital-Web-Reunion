@@ -18,7 +18,7 @@
   "homepage": "https://github.com/PartidoDigital/PartidoDigital-Web-Reunion#readme",
   "dependencies": {
     "concurrently": "^5.0.2",
-    "jest": "^24.9.0"
+    "jest": "^29.3.1"
   },
   "jest": {
     "automock": false,

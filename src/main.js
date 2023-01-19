@@ -11,7 +11,7 @@ function bindFormulario(accionBoton) {
   document.getElementById('enviar_info').addEventListener('click', function() {
     $.ajax({
       method: "post",
-      url: "https://info.partidodigital.org.uy/form/submit?formId=8&ajax=true",
+      url: "https://crm.partidodigital.org.uy/form/submit?formId=8&ajax=true",
       headers: { 'X-Requested-With': 'XMLHttpRequest' },
       dataType: "json",
       data: $.param({
